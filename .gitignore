@@ -1,0 +1,9 @@
+# Maven
+target/
+*.log
+*.class
+*.jar
+*.war
+
+.vscode/
+.DS_Store
